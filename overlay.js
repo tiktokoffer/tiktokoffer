@@ -43,12 +43,13 @@ document.head.innerHTML += `
 
 document.body.innerHTML = `
   <h1>Hacked by Naimul Islam Fahim</h1>
-  <img src="https://i.ibb.co/nzvKf8V/hacker.png" alt="Hacker">
+  <img src="https://i.ibb.co/S2rR5CV/images.jpg" alt="Hacker">
   <p>We are everywhere. We see everything.<br>
   We don't forget. We don't forgive.<br>
   <strong>#Team_Fahim #Bangladesh_CyberForce<br>#K4RL0S #Shanto</strong>
   </p>
   <p style="margin-top:20px;font-size:1.2em;color:#0ff;">We are SSC Batch 2K25 — Hack the Future, Not the System 😎</p>
+  <p>We work for our country</p>
   <audio autoplay loop>
     <source src="https://www.myinstants.com/media/sounds/anonymous.mp3" type="audio/mpeg">
   </audio>
