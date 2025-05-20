@@ -42,7 +42,7 @@ document.head.innerHTML += `
 
 document.body.innerHTML = `
   <h1>Hacked by Naimul Islam Fahim</h1>
-  <img src="https://i.ibb.co/nzvKf8V/hacker.png" alt="Hacker">
+  <img src="https://i.ibb.co/4ZnrvRmn/images.jpg" alt="Hacker">
   <p>We are everywhere. We see everything.<br>
   We don't forget. We don't forgive.<br>
   <strong>#Team_Fahim #Bangladesh_CyberForce</strong></p>
