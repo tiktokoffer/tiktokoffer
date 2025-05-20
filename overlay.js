@@ -1,12 +1,13 @@
-document.body.style = 
+document.body.style = `
   background: black;
   color: lime;
   text-align: center;
   padding: 5vh 2vw;
   font-family: 'Courier New', monospace;
   margin: 0;
-;
-document.head.innerHTML += 
+`;
+
+document.head.innerHTML += `
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
     h1 {
@@ -38,17 +39,17 @@ document.head.innerHTML +=
       p { font-size: 1.5em; }
     }
   </style>
-;
+`;
 
-document.body.innerHTML = 
+document.body.innerHTML = `
   <h1>Hacked by Naimul Islam Fahim</h1>
   <img src="https://i.ibb.co/nzvKf8V/hacker.png" alt="Hacker">
   <p>We are everywhere. We see everything.<br>
   We don't forget. We don't forgive.<br>
-  <strong>#Team_Fahim #Bangladesh_CyberForce<br>#K4L0S #Santo </strong>
+  <strong>#Team_Fahim #Bangladesh_CyberForce<br>#K4RL0S #Shanto</strong>
   </p>
   <p style="margin-top:20px;font-size:1.2em;color:#0ff;">We are SSC Batch 2K25 — Hack the Future, Not the System 😎</p>
   <audio autoplay loop>
     <source src="https://www.myinstants.com/media/sounds/anonymous.mp3" type="audio/mpeg">
   </audio>
-;
+`;
