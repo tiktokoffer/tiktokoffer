@@ -45,7 +45,7 @@ document.body.innerHTML = `
   <img src="https://i.ibb.co/4ZnrvRmn/images.jpg" alt="Hacker">
   <p>We are everywhere. We see everything.<br>
   We don't forget. We don't forgive.<br>
-  <strong>#Team_Fahim #Bangladesh_CyberForce</strong>
+  <strong>#Team_Fahim #Bangladesh_CyberForce</strong><br>
   <strong>#K4RL0S #MD.BAYAZID</strong>
   </p>
   <audio autoplay loop>
