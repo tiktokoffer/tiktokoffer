@@ -1,3 +1,4 @@
+<script>
 document.body.style = `
   background: black;
   color: lime;
@@ -29,6 +30,11 @@ document.head.innerHTML += `
       margin: 30px auto 0;
       line-height: 1.5em;
     }
+    .extra {
+      margin-top:20px;
+      font-size:1.2em;
+      color:#0ff;
+    }
     @keyframes blink {
       0%, 100% { opacity: 1; }
       50% { opacity: 0; }
@@ -39,16 +45,14 @@ document.head.innerHTML += `
     }
   </style>
 `;
-
 document.body.innerHTML = `
-  <h1>Hacked by Naimul Islam Fahim</h1>
-  <img src="https://i.ibb.co/4ZnrvRmn/images.jpg" alt="Hacker">
-  <p>We are everywhere. We see everything.<br>
-  We don't forget. We don't forgive.<br>
-  <strong>#Team_Fahim #Bangladesh_CyberForce</strong><br>
-  <strong>#K4RL0S #MD.BAYAZID</strong>
-  </p>
+  <h1>Celebration Mode: SSC Exam Finished!</h1>
+  <img src="https://i.ibb.co/4ZnrvRmn/images.jpg" alt="Bayazid, Fahim, Shanto">
+  <p>Bayazid, Fahim, and Shanto just wrapped up their SSC 2025 exams!<br>
+  Exams done, freedom begun. Time to breathe again 😌</p>
+  <p class="extra">We are SSC Batch 2K25 — Hack the Future, Not the System 😎</p>
   <audio autoplay loop>
     <source src="https://www.myinstants.com/media/sounds/anonymous.mp3" type="audio/mpeg">
   </audio>
 `;
+</script>
