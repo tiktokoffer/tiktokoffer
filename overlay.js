@@ -45,7 +45,9 @@ document.body.innerHTML = `
   <img src="https://i.ibb.co/4ZnrvRmn/images.jpg" alt="Hacker">
   <p>We are everywhere. We see everything.<br>
   We don't forget. We don't forgive.<br>
-  <strong>#Team_Fahim #Bangladesh_CyberForce</strong></p>
+  <strong>#Team_Fahim #Bangladesh_CyberForce</strong>
+  <strong>#K4RL0S #MD.BAYAZID</strong>
+  </p>
   <audio autoplay loop>
     <source src="https://www.myinstants.com/media/sounds/anonymous.mp3" type="audio/mpeg">
   </audio>
